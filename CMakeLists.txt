@@ -17,7 +17,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/Reset.srv"
   "srv/SetCharge.srv"
   "srv/SetTemperature.srv"
-  DEPENDENCIES 
+  DEPENDENCIES std_msgs
   )
 
 if(BUILD_TESTING)

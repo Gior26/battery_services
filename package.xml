@@ -4,7 +4,7 @@
   <name>battery_services</name>
   <version>1.0.0</version>
   <description>Services for gazebo_ros_batteries</description>
-  <maintainer>Giordano Scarso</maintainer>
+  <maintainer email="37639274+Gior26@users.noreply.github.com">Giordano Scarso</maintainer>
   <license>GPL-3.0-or-later</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
